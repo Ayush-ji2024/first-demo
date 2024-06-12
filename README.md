@@ -1,4 +1,4 @@
 # first-demo
 This is my first repository
 <br>
-author- ayush kumar
+author- kumar ayush
